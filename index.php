@@ -24,4 +24,6 @@
 
 echo myTruncate('Some text here not truncated', 100);
 
+echo'<br /> New Branch';
+
 ?>
