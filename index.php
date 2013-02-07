@@ -20,4 +20,8 @@
 }
 
 
+// 3rd commit here
+
+echo myTruncate('Some text here not truncated', 100);
+
 ?>
