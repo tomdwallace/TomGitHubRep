@@ -1,7 +1,7 @@
 <?php
 
 // Original PHP code by Chirp Internet: www.chirp.com.au // Please acknowledge use of this code by including this header.
-// 
+
  function myTruncate($string, $limit, $break = ".", $pad = "...") {
     // return with no change if string is shorter than $limit
 
@@ -25,5 +25,7 @@
 echo myTruncate('Some text here not truncated', 100);
 
 echo'<br /> New Branch';
+
+echo'<br />after merge with master now editing new branch again';
 
 ?>
