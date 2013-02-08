@@ -22,5 +22,5 @@
 // Test File
 
 echo textTruncate('Some text here not truncated', 100);
-
+echo 'My first remote '
 ?>
