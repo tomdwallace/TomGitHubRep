@@ -26,6 +26,6 @@ echo myTruncate('Some text here not truncated', 100);
 
 echo'<br /> New Branch';
 
-echo'<br />after merge with master now editing new branch again';
+echo'<br />TEST EDIT merge with master now editing new branch again';
 
 ?>
