@@ -26,6 +26,6 @@ echo myTruncate('Some text here not truncated', 100);
 
 echo'<br /> New Branch';
 
-echo'<br />NEW NEW BRANCH';
+echo'<br />TEST PUSH';
 
 ?>
